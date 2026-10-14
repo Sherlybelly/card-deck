@@ -1,0 +1,20 @@
+{
+    "tarots": [
+        {
+            "name": "Pride & Prejudice",
+            "number": "Jane Austen",
+            "image": "2 of swords"
+        },
+        {
+            "name": "Mansfield Park",
+            "number": "Jane Austen",
+            "image": 100
+        },
+        {
+            "name": "Sense & Sensibility",
+            "number": "Jane Austen",
+            "image": 100
+        }
+    ]
+}
+
