@@ -1,9 +1,12 @@
 .deck {
     background-color: lightblue;
-    border-left: 20px solid black;
     max-width: 150px;
-    height: 200px;
+    height: 300px;
+    max-width: 150%;
     padding: 20px;
+    border-radius: 50px;
+    text-align: center;
+    text-decoration: none;
 }
 
 .disabled {
@@ -16,5 +19,11 @@
     gap: 10px; 
   
 
+}
+
+.deck img{
+    width: 100%;
+    height: 60%;
+    object-fit: contain;
 }
 

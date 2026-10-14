@@ -1,19 +1,25 @@
 {
     "tarots": [
         {
-            "name": "Pride & Prejudice",
-            "number": "Jane Austen",
-            "image": "2 of swords"
+            "name": "2 of Swords",
+            "number": "II",
+            "image": "IMAGES/2-of-swords.jpg",
+            "link":"https://www.dailytarotdraw.com/two-of-swords#gsc.tab=0"
         },
         {
-            "name": "Mansfield Park",
-            "number": "Jane Austen",
-            "image": 100
+            "name": "8 of Swords",
+            "number": "VIII",
+            "image": "IMAGES/8-of-swords.jpg",
+            "link":"https://www.dailytarotdraw.com/eight-of-swords#gsc.tab=0"
+    
+            
         },
         {
-            "name": "Sense & Sensibility",
-            "number": "Jane Austen",
-            "image": 100
+            "name": "Justice",
+            "number": "XI",
+            "image": "IMAGES/11-justice.jpg",
+            "link":"https://www.dailytarotdraw.com/justice#gsc.tab=0"
+        
         }
     ]
 }
